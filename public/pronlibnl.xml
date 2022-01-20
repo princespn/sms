@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="nl-NL">
+
+  <lexeme>
+    <grapheme>Instagram</grapheme>
+    <alias>instakrem</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>_</grapheme>
+    <alias>anderscoor</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>@</grapheme>
+    <alias>ed</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>-</grapheme>
+    <alias>,</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>middenin</grapheme>
+    <alias>midden in</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Macron</grapheme>
+    <alias>makrón</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Le Parisien</grapheme>
+    <alias>Le pari sjén</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>dehumanisering</grapheme>
+    <alias>déhumanisering</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Raisa</grapheme>
+    <alias>Rai Sa</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Srebrenica</grapheme>
+    <alias>Srebreenietsa</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Gideon van Meijeren</grapheme>
+    <alias>Giedeon van Meijeren</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Gideon</grapheme>
+    <alias>Giedeon</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Thierry Baudet</grapheme>
+    <alias>Tjèrrie Baudet</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>complotextremist</grapheme>
+    <alias>complotextrmist</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>plenaire</grapheme>
+    <alias>pluhnaire</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Rebellion</grapheme>
+    <alias>Rebelli jon</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>social media</grapheme>
+    <alias>social miedia</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>72</grapheme>
+    <alias>tweeen-zeventig</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>75</grapheme>
+    <alias>vijfen-zeventig</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>79</grapheme>
+    <alias>negenen-zeventig</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>coronavaccin</grapheme>
+    <alias>corona vaxèèn</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>vaccin</grapheme>
+    <alias>vaxèèn</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>vaccins</grapheme>
+    <alias>vaxèèns</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>FVD-voorman</grapheme>
+    <alias>F v Day Voorman</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>FVD voorman</grapheme>
+    <alias>F v Day Voorman</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>D66 leider</grapheme>
+    <alias>D66-leider</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>coronavaccins</grapheme>
+    <alias>coronavaxèèns</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Coronavaccins</grapheme>
+    <alias>Coronavaxèèns</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Big Tech</grapheme>
+    <alias>Bic Tech</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Sars CoV 2</grapheme>
+    <alias>Sars kof 2</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Fauci</grapheme>
+    <alias>fautsjie</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Yeadon</grapheme>
+    <alias>jie don</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Füllmich</grapheme>
+    <alias>Fuulmiech</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>productiemedewerker</grapheme>
+    <alias>productie medewerker</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>aflastingen</grapheme>
+    <alias>aflasting-een</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>democratische</grapheme>
+    <alias>demokratische</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>geliket</grapheme>
+    <alias>gelaaikt</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>focust</grapheme>
+    <alias>foocust</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>zodanig</grapheme>
+    <alias>zoo-danig</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>non profitorganisatie</grapheme>
+    <alias>non profit organisatie</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>vaccinatiecampagne</grapheme>
+    <alias>vaccinaatsiecampagne</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>gebrainwasht</grapheme>
+    <alias></alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>gebrainwasht</grapheme>
+    <alias>ge brain wosht</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>reünie</grapheme>
+    <alias>reeju nie</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Onderzoekscommissie</grapheme>
+    <alias>Onder zoeks commissie</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>enthousiast</grapheme>
+    <alias>anthousiast</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Washington</grapheme>
+    <alias>Woshing ton</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>vaccineffectiviteit</grapheme>
+    <alias>vaccin effectiviteit</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Agema</grapheme>
+    <alias>agem-a</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Geboosterde</grapheme>
+    <alias>Geboesterde</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>geboosterde</grapheme>
+    <alias>geboesterde</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Saget</grapheme>
+    <alias>segget</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Orlando</grapheme>
+    <alias>Orlèèndo</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>CO2</grapheme>
+    <alias>c o2</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Capel</grapheme>
+    <alias>kappèl</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Schwab</grapheme>
+    <alias>schwaab</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>gore</grapheme>
+    <alias>goore</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>gefactcheckt</grapheme>
+    <alias>gefektcheckt</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>talkshow</grapheme>
+    <alias>tolkshow</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Voermans</grapheme>
+    <alias>Voer mans</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>frequent</grapheme>
+    <alias>fruquent</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>channel</grapheme>
+    <alias>chennel</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Source</grapheme>
+    <alias>soorrs</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>WHO</grapheme>
+    <alias>w h o</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Farid</grapheme>
+    <alias>fariet</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>heropening</grapheme>
+    <alias>her opening</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>collega</grapheme>
+    <alias>collee ga</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Felicia</grapheme>
+    <alias>Felisieja</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Giornale</grapheme>
+    <alias>dziiornale</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>TIA's</grapheme>
+    <alias>tiejaas</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Alberta</grapheme>
+    <alias>Albeurta</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>ivermectine</grapheme>
+    <alias>ievermectine</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>hydroxychloroquine</grapheme>
+    <alias>hie droxy chloroquine</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Maes</grapheme>
+    <alias>maas</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>begin</grapheme>
+    <alias>beginn</alias>
+  </lexeme> 
+  <lexeme>
+    <grapheme>Big</grapheme>
+    <alias>bic</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>Blckbx.tv</grapheme>
+    <alias>black box punt tv</alias>
+  </lexeme> 
+</lexicon>
